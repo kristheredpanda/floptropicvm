@@ -1,0 +1,10 @@
+C:\Users\Sky The Foxx\source\repos\floptropicvm\bin\Release\floptropicvm.exe
+C:\Users\Sky The Foxx\source\repos\floptropicvm\bin\Release\floptropicvm.pdb
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.csproj.AssemblyReference.cache
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.Form1.resources
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.Form2.resources
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.Properties.Resources.resources
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.csproj.GenerateResource.cache
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.csproj.CoreCompileInputs.cache
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.exe
+C:\Users\Sky The Foxx\source\repos\floptropicvm\obj\Release\floptropicvm.pdb

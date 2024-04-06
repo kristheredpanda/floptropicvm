@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floptropicvm", "floptropicvm.csproj", "{4BBC71FA-9357-457E-9020-1927FFF39D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBC71FA-9357-457E-9020-1927FFF39D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBC71FA-9357-457E-9020-1927FFF39D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBC71FA-9357-457E-9020-1927FFF39D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBC71FA-9357-457E-9020-1927FFF39D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74E4923-A6FC-4EB8-A637-DAEA34892376}
+	EndGlobalSection
+EndGlobal
