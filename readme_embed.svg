@@ -1,0 +1,40 @@
+<svg width="640" height="500" xmlns="http://www.w3.org/2000/svg">
+<style>
+            .body{
+                margin: 0px;
+                padding: 20px;
+                background-color: rgb(255, 255, 255);
+            }
+
+            .mh1{
+                margin: 10px;
+            }
+
+            .infobox{
+                background-color: rgb(209, 6, 209);
+                color: rgb(255, 251, 0);
+                margin: 0px;
+                padding: 4px;
+            }
+
+            .h2j{
+                margin: 0px;
+            }
+        </style>
+<foreignObject width="640" height="500">
+    <div class="body" xmlns="http://www.w3.org/1999/xhtml">
+        <div class="infobox">
+            <h1 class="h2j">FLOPTROPICVM</h1>
+            <hr></hr>
+            <em>source code for floptropicvm.exe is on my <a href="https://github.com/kristheredpanda/floptropicvm">Github</a>.</em>
+            <br></br>
+            <br></br>
+            <br></br>
+            <h2>when audio plays, it may turn into static 30 seconds after starting, idk how to fix that.</h2>
+            <br></br>
+            <h2>the reason i have the source code available to the public is so you know what code the program contains,</h2>
+            <h2>if you modify the program and publish it, be sure to credit me (my username is @kristheredpanda).</h2>
+        </div>
+    </div>
+</foreignObject>
+</svg>
