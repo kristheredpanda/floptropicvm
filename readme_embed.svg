@@ -3,6 +3,7 @@
             .body{
                 margin: 0px;
                 padding: 20px;
+                background-color: rgb(255, 255, 255);
             }
 
             .mh1{
@@ -22,7 +23,6 @@
         </style>
 <foreignObject width="640" height="500">
     <div class="body" xmlns="http://www.w3.org/1999/xhtml">
-        <h1 class="mh1">README.html</h1>
         <div class="infobox">
             <h1 class="h2j">FLOPTROPICVM</h1>
             <hr></hr>
